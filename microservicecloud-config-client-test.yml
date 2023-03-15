@@ -1,0 +1,9 @@
+server:
+  port: 8203
+
+spring:
+  profiles:
+    active: test
+  application:
+    name: microservicecloud-config-client-test
+
